@@ -18,7 +18,7 @@ This read-only PowerShell script detects the presence of Grammarly (desktop inst
 
 <p align="center">
 Launch the utility: <br/>
-<img src="//imgur.com/a/w328QNA" height="80%" width="80%" alt="Navigate to Scripts and remediations"/>
+<img src="https://imgur.com/gallery/intune-grammarly-screenshot-1-w328QNA" height="80%" width="80%" alt="Navigate to Scripts and remediations"/>
 <br />
 <br />
 Select the disk:  <br/>
