@@ -18,7 +18,7 @@ This read-only PowerShell script detects the presence of Grammarly (desktop inst
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/Rrs4IOQ" height="80%" width="80%" alt="Navigate to Scripts and remediations"/>
 <br />
 <br />
 Select the disk:  <br/>
