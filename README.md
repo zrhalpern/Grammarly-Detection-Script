@@ -17,12 +17,12 @@ This read-only PowerShell script detects the presence of Grammarly (desktop inst
 <h2>Walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Create the script 1: <br/>
 <img src="https://i.imgur.com/Ob7ntBZ.png" height="80%" width="80%" alt="Navigate to Scripts and remediations"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create the script 2:  <br/>
+<img src="https://i.imgur.com/4ZObJex.png" height="80%" width="80%" alt="Create the script 1"/>
 <br />
 <br />
 Enter the number of passes: <br/>
