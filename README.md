@@ -14,7 +14,7 @@ This read-only PowerShell script detects the presence of Grammarly (desktop inst
 
 - <b>Windows 11</b> (25H2)
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
