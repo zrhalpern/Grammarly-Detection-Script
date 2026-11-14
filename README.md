@@ -12,7 +12,7 @@ This read-only PowerShell script detects the presence of Grammarly (desktop inst
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> (25H2)
 
 <h2>Program walk-through:</h2>
 
