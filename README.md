@@ -26,7 +26,7 @@ Create the script:  <br/>
 <br />
 <br />
 Upload script and choose settings: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Upload script and choose settings"/>
+<img src="https://i.imgur.com/HinLQ1D.png" height="80%" width="80%" alt="Upload script and choose settings"/>
 <br />
 <br />
 Confirm your selection:  <br/>
