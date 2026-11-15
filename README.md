@@ -17,7 +17,7 @@ This read-only PowerShell script detects the presence of Grammarly (desktop inst
 <h2>Walk-through:</h2>
 
 <p align="center">
-Setting up environment: <br/>
+Navigate to scripts and remediations: <br/>
 <img src="https://i.imgur.com/Ob7ntBZ.png" height="80%" width="80%" alt="Navigate to Scripts and remediations"/>
 <br />
 <br />
